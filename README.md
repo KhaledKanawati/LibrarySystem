@@ -2,17 +2,14 @@
 
 A simple library system for managing books and rentals with user accounts using Java.
 
+CLI based.
+
 ## Requirements
 
 - Java 14 or higher
 
 ## Getting Started
-
-```bash
-java Main
-```
-
-No setup required. Just compile and run.
+No setup required. Just compile and run (the Main file is the actual CLI interactiver library).
 ## Features
 
 ### Book Management
